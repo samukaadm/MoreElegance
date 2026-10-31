@@ -1,0 +1,63 @@
+Mods: {
+	MoreElegance: {
+		DamageClasses: {
+			ElegantMeleeDamageClass.DisplayName: "elegant melee damage"
+		}
+
+		Items: {
+			RapierBase: {
+				DisplayName: "Rapier Base"
+				Tooltip:
+					'''
+					A swift and elegant thrusting blade.
+					Strikes with refined precision.
+					'''
+			}
+
+			AerialiteRapier: {
+				DisplayName: "Aerialite Rapier"
+				Tooltip:
+					'''
+					Infused with the buoyant power of the skies.
+					Thrusts with unmatched agility and grace.
+					'''
+			}
+
+			TrainingBlock: {
+				DisplayName: "Training Block"
+				Tooltip: "An unbreakable block forged for rigorous martial training."
+			}
+		}
+
+		Projectiles: {
+			ProjRapierBase.DisplayName: "Rapier Base"
+			ProjAerialiteRapier.DisplayName: "Aerialite Rapier"
+		}
+
+		Tiles: {
+			TrainingTile.MapEntry: "Indestructible Training Block"
+		}
+
+		NPCs: {
+			GeneralNPC: {
+				DisplayName: "The General"
+
+				TownNPCMood: {
+					Content: "Discipline and composure maintain an unyielding spirit."
+					NoHome: "A wandering master requires neither roof nor hearth, but a dedicated training ground is appreciated."
+					LoveSpace: "Serenity and ample space to hone the blade are all I desire."
+					FarFromHome: "I am far from my training quarters."
+					DislikeCrowded: "A crowd dulls the senses and breeds undisciplined chatter."
+					HateCrowded: "This sheer chaos is unbefitting of refined combatants."
+					LikeBiome: "The fresh breeze in the {BiomeName} sharpens my reflexes."
+					LoveBiome: "The pristine tranquility of the {BiomeName} is unmatched."
+					DislikeBiome: "The foul air of {BiomeName} tarnishes steel and discipline."
+					HateBiome: "Such vile corruption has no place in an elegant world."
+					LikeNPC: "I respect {NPCName}'s steadfast determination."
+					DislikeNPC: "{NPCName} lacks form, restraint, and manners."
+					LikeNPC_Princess: "{NPCName} carries herself with true aristocratic poise."
+				}
+			}
+		}
+	}
+}

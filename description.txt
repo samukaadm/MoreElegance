@@ -1,0 +1,9 @@
+Elegant Melee elevates martial combat in Terraria with a refined fencing subclass.
+
+Features:
+- Elegant Melee Subclass: Fast, precision-focused thrusting weapons inheriting full melee bonuses and effects.
+- Rapier Weaponry: Swift lunging blades with directional cursor-aimed thrusts.
+- The General NPC: A distinguished martial master inspired by Spring Mustachio and the Traveling Merchant. Offers swordsmanship guidance, fencing wares, and instant transport to the Training Grounds.
+- Indestructible Training Chamber: Secure training blocks impervious to pickaxes and explosives.
+- Cross-Mod Calamity Support: Optional high-tier aerialite fencing weaponry that activates seamlessly if CalamityMod is detected.
+- Endgame World Reconstruction: Once Moon Lord is vanquished and all corruption/crimson is eradicated, speak with The General to replace makeshift wooden boxes with a majestic Aristocratic Palace.
